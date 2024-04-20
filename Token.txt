@@ -1,0 +1,96 @@
+
+Lexemes 	 Tokens 
+
+______________________________________________________
+
+include  				IDENTIFIER
+< 				 Operator
+> 				 Operator
+int  				KEYWORDS
+(   				BRACES
+)   				BRACES
+main  				IDENTIFIER
+{   				BRACES
+char  				IDENTIFIER
+=  				 ASSIGNMENT_OP
+;  				BREAK
+I  				IDENTIFIER
+int  				KEYWORDS
+lowercasevowel  				IDENTIFIER
+;  				BREAK
+uppercasevowel  				IDENTIFIER
+lowercasevowel  				IDENTIFIER
+=  				 ASSIGNMENT_OP
+(   				BRACES
+c  				IDENTIFIER
+==  				COMPARISON_OP
+a  				IDENTIFIER
+c  				IDENTIFIER
+==  				COMPARISON_OP
+e  				IDENTIFIER
+c  				IDENTIFIER
+==  				COMPARISON_OP
+i  				IDENTIFIER
+c  				IDENTIFIER
+==  				COMPARISON_OP
+o  				IDENTIFIER
+c  				IDENTIFIER
+==  				COMPARISON_OP
+)   				BRACES
+;  				BREAK
+u  				IDENTIFIER
+uppercasevowel  				IDENTIFIER
+=  				 ASSIGNMENT_OP
+(   				BRACES
+c  				IDENTIFIER
+==  				COMPARISON_OP
+A  				IDENTIFIER
+c  				IDENTIFIER
+==  				COMPARISON_OP
+E  				IDENTIFIER
+c  				IDENTIFIER
+==  				COMPARISON_OP
+I  				IDENTIFIER
+c  				IDENTIFIER
+==  				COMPARISON_OP
+O  				IDENTIFIER
+c  				IDENTIFIER
+==  				COMPARISON_OP
+)   				BRACES
+;  				BREAK
+U  				IDENTIFIER
+if  				IDENTIFIER
+(   				BRACES
+lowercasevowel  				IDENTIFIER
+)   				BRACES
+uppercasevowel  				IDENTIFIER
+(   				BRACES
+"  				QUOTATION
+printfc  				IDENTIFIER
+is  				IDENTIFIER
+a  				IDENTIFIER
+"  				QUOTATION
+vowel  				IDENTIFIER
+)   				BRACES
+;  				BREAK
+c  				IDENTIFIER
+else  				IDENTIFIER
+(   				BRACES
+"  				QUOTATION
+printfc  				IDENTIFIER
+is  				IDENTIFIER
+a  				IDENTIFIER
+"  				QUOTATION
+consonant  				IDENTIFIER
+)   				BRACES
+;  				BREAK
+c  				IDENTIFIER
+return  				IDENTIFIER
+0  				NUM_CONST
+;  				BREAK
+}   				BRACES
+
+______________________________________________________
+
+	COUNT:  4204385
+
